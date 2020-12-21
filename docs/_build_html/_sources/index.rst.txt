@@ -7,6 +7,17 @@ The Clustergrammer project consists of web-based tools for visualizing and analy
 What's New
 --------------
 
+NCI Data Science Seminar Series
+====================================================================
+.. raw:: html
+
+         <div style="position: relative; padding-bottom: 10px; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+
+         <iframe width="560" height="315" src="https://www.youtube.com/embed/dSEy6XGoIi0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+         </div>
+
+We recently presented :ref:`clustergrammer2` at the NCI Data Science Seminar Seriesand showed off our latest examples (Citi Bike on Observable) and features (e.g. manual annotation of categories, integration with :ref:`deck.gl`).
+
 Scipy 2020
 ====================================================================
 .. raw:: html
@@ -120,6 +131,7 @@ Contents:
    clustergrammer_py
    license
 
+.. _`deck.gl`: https://deck.gl/
 .. _`Clustergrammer2`: https://github.com/ismms-himc/clustergrammer2
 .. _`regl`: http://regl.party/
 .. _`https://amp.pharm.mssm.edu/clustergrammer/`: https://amp.pharm.mssm.edu/clustergrammer/
