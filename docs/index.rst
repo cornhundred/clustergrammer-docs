@@ -9,14 +9,8 @@ What's New
 
 NCI Data Science Seminar Series
 ====================================================================
-.. raw:: html
 
-         <div style="position: relative; padding-bottom: 10px; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-
-         <iframe width="560" height="315" src="https://www.youtube.com/embed/dSEy6XGoIi0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-         </div>
-
-We recently presented :ref:`clustergrammer2` at the NCI Data Science Seminar Seriesand showed off our latest examples (Citi Bike on Observable) and features (e.g. manual annotation of categories, integration with :ref:`deck.gl`).
+We recently presented :ref:`clustergrammer2` at the NCI Data Science Seminar Series (:ref:`Recording`) and showed off our latest examples (Citi Bike on Observable) and features (e.g. manual annotation of categories, integration with :ref:`deck.gl`).
 
 Scipy 2020
 ====================================================================
@@ -167,6 +161,7 @@ Contents:
 .. _`KMC-IDG`: http://commonfund.nih.gov/idg/overview
 .. _`example notebook`: http://nbviewer.jupyter.org/github/MaayanLab/clustergrammer-widget/blob/master/Running_clustergrammer_widget.ipynb
 .. _`Clustergrammer2-Gitter`: https://gitter.im/clustergrammer2
+.. _`Recording`: https://datascience.cancer.gov/news-events/events/exploring-high-dimensional-biological-data-clustergrammer2
 
 
 
